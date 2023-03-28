@@ -16,4 +16,5 @@ This project is a case study for Blossom Bank PLC, a financial institution that 
 
 - What educational status has the highest and lowest number of customers? “Secondary” has the highest while “Unknown” has the lowest number of customers.
 
-[Blossom Bank PLC Loan Analysis Dashboard.pdf](https://github.com/HannatuGwabin/Blossom-Bank-PLC-Dashboard/files/11087507/Blossom.Bank.PLC.Loan.Analysis.Dashboard.pdf)
+
+![Blossom Bank PLC Loan Analysis Dashboard_page-0001](https://user-images.githubusercontent.com/115185829/228188577-40f140fa-3a28-4538-81cf-84d5f6b2efc7.jpg)
