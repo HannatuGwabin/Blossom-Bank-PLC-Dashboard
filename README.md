@@ -15,3 +15,5 @@ This project is a case study for Blossom Bank PLC, a financial institution that 
 - How many customers are eligible for a loan? 7,244 (16.02%) customers are eligible for a loan while 37,967 customers (83.98%) are not eligible for a loan.
 
 - What educational status has the highest and lowest number of customers? “Secondary” has the highest while “Unknown” has the lowest number of customers.
+
+[Blossom Bank PLC Loan Analysis Dashboard.pdf](https://github.com/HannatuGwabin/Blossom-Bank-PLC-Dashboard/files/11087507/Blossom.Bank.PLC.Loan.Analysis.Dashboard.pdf)
